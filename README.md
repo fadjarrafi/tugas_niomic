@@ -1,7 +1,7 @@
 # tugas_niomic
 <h1 align="center">Tugas Niomic</h1>
 
-<p align="center"><img src="niomic.png" alt="Niomic" width="200"/></p>
+<p align="center"><img src="niomic.jpg" alt="Niomic" width="200"/></p>
 
 <p align="center">tugas tugas niomic <a href="https://niomic.com/">Niomic</a>.</p>
 
