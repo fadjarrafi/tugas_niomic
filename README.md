@@ -17,7 +17,7 @@
 - [Tugas 7 HTML](https://github.com/fadjarrafi/tugas_7_html) - Ordered list, Align Paragraph, Format Element.
 
 
-### 2. GOLANG
+### 2. Golang
 - [Tugas 1 GOLANG](https://github.com/fadjarrafi/tugas_1_go) - Hello World!, menampilkan output nama.
 - [Tugas 2 GOLANG](https://github.com/fadjarrafi/tugas_2_go) - Variabel, Operator, Seleksi Kondisi.
 - [Tugas 3 GOLANG](https://github.com/fadjarrafi/tugas_3_go) - Perulangan, Array, Slice.
